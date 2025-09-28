@@ -1,5 +1,7 @@
 ## 概览
 
+欢迎体验天翼AI表格理解大模型（智能问数、多表关联、报告生成、数据分析等）：https://www.teleai.com.cn/experience/tableModel
+
 欢迎阅读论文T2R-bench: A Benchmark for Generating Article-Level Reports from Real World Industrial Tables的官方仓库。
 
 T2RBench是业内首个面向真实工业场景的“表格生成报告”基准。该数据集包含中英双语场景，共覆盖 6个一级大类和19 个二级业务小类，包括：汽车、能源、金融、政务、财务、科技、教育、银行等垂域。相比于各类开源表格数据集，T2R-bench是业内目前覆盖工业级表格类别最全的数据集，包括多种工业领域特有的复杂表格场景，如单表多sheet、多表多sheet、复杂结构表、超大宽表等，示例如下图所示。
